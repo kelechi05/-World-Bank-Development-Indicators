@@ -2,6 +2,9 @@
 
 ### Project Overview
 This is an analysis of Different countries Development Indicators as published by World bank data from year 1960 - 2018. It reveals insights on how Topp countries are performing using various indicators across different years, different regions, different economic or income gruops.
+![Birth rate vs Death rate for five years](https://github.com/user-attachments/assets/2e8f292f-ad4c-45e2-85b4-1cb9ce8261fb)
+![countries per region](https://github.com/user-attachments/assets/2806308d-6d69-442a-b850-512c9be8ef78)
+
 
 ### Data Sources
 The primary data source that was used for this analysis is "WorldBank.xlsx" file and was downloaded from kaggle.com
